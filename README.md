@@ -15,3 +15,11 @@ The aim is to make it easier for **current and future MSc-IT students** to learn
 ## 📂 Repository Structure
 Each subject will have its own folder with notes, code, and resources:
 
+---
+
+## 📬 Contact
+
+For any help or query, contact me on LinkedIn:  
+**https://www.linkedin.com/in/ahmedskh/**
+
+---
