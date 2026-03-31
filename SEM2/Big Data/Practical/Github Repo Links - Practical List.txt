@@ -1,0 +1,30 @@
+practical link for big data 
+
+practical no 1. as it is copy from the journal which has been uploaded in group.
+
+practical no. 2. word map
+https://github.com/DeltaOptimist/Implement-word-count-frequency-programs-using-MapReduce
+
+practical no . 3 Implement the program using Pig
+https://github.com/DeltaOptimist/Implement_pig_using_pyspark
+
+practical 4 -  Implement the application in Hive.
+https://github.com/DeltaOptimist/Leveraging-Hive-with-Spark-using-Python
+
+practical no - 5 Implement Decision tree classification techniques
+ https://github.com/DeltaOptimist/Decision_Tree_BDA_Classification_Pyspark/blob/main/Decision_Tree_Pyspark.ipynb
+
+practical no 6 - Implement using Linear_Regression using pyspark 
+https://github.com/DeltaOptimist/Pyspark_Linear_Regression
+
+practical no 7 - Implement using Logistic_Regression using pyspark
+https://github.com/DeltaOptimist/Logistic_regression_BDA_Classification_Pyspark
+
+practical no. 8 - Implement mulitple regression model
+https://github.com/DeltaOptimist/Multiple_Linear_Regression_PySpark
+
+Practical no - 9 Implement movie - review text classification using BI-LSTM
+https://github.com/DeltaOptimist/movie-review-text-classification-using-BILSTM/blob/main/movie_review_(text_classification)_using_BI_LSTM.ipynb
+
+Practical 10 - Implement App_User_Segmentation using clustering method.
+https://github.com/DeltaOptimist/App_User_Segmentation_using_Kmeans_clustering
